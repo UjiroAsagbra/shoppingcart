@@ -2,7 +2,7 @@ export function Home() {
   return (
     <>
     <h1>Home</h1>
-    <a className="link" href="/home"></a>
+   <p>This is a home page. Click on store above for store</p>
     </>
   )
 }
